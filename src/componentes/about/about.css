@@ -1,0 +1,34 @@
+.custom-shape-divider-top-1627507509 {
+    position: absolute;
+    top: 300;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1627507509 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 137px;
+}
+
+.custom-shape-divider-top-1627507509 .shape-fill {
+    fill: black;
+}
+
+.about-container {
+    position: relative;
+    top: 100px;
+    color: #a02929;
+    text-align: center;
+}
+
+p {
+    color: black;
+}
+
+h2 {
+    text-decoration: underline;
+}

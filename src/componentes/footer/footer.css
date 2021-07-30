@@ -1,0 +1,9 @@
+.footer {
+    position:relative;
+    top:150px;
+    text-align: center;
+    color: #a02929;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+}
